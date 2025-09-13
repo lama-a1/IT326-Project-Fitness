@@ -8,5 +8,5 @@ The motivation behind this project is to predict fitness levels and uncover patt
 ## Student Names
 - Lama Almubarak
 - Waad Alghamdi
-- Raghad alqahtani
-- raneem aloraini
+- Raghad Alqahtani
+- Raneem Aloraini
